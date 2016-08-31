@@ -24,7 +24,7 @@
         <activity android:name=".Bovedas" />
         <activity android:name=".Mausoleos" />
         <activity android:name=".ServiciosF" />
-        <activity android:name=".Producto1"></activity>
+        <activity android:name=".Producto1" />
     </application>
 
 </manifest>
