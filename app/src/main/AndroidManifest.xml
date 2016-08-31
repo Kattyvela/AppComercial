@@ -19,7 +19,12 @@
         <activity android:name=".Presentacion" />
         <activity android:name=".Productos" />
         <activity android:name=".Galeria" />
-        <activity android:name=".Vista360"></activity>
+        <activity android:name=".Vista360" />
+        <activity android:name=".Parcelas" />
+        <activity android:name=".Bovedas" />
+        <activity android:name=".Mausoleos" />
+        <activity android:name=".ServiciosF" />
+        <activity android:name=".Producto1"></activity>
     </application>
 
 </manifest>
