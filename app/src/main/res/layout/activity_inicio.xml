@@ -40,17 +40,19 @@
         android:layout_height="wrap_content"
         android:text="Vista 360°"
         android:id="@+id/btnVista360"
-        android:layout_marginTop="240dp"
-        android:layout_centerHorizontal="true" />
+        android:layout_below="@+id/btnGaleria"
+        android:layout_alignLeft="@+id/btnGaleria"
+        android:layout_alignStart="@+id/btnGaleria"
+        android:layout_marginTop="56dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Jakemate Web"
         android:id="@+id/button28"
-        android:layout_marginTop="45dp"
-        android:layout_below="@+id/btnVista360"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="47dp" />
 
 
 </RelativeLayout>
